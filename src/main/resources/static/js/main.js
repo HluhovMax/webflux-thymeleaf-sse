@@ -51,4 +51,4 @@ window.onload = function() {
 };
 window.onbeforeunload = function() {
     comment.stop();
-}
+};
