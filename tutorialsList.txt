@@ -1,0 +1,3 @@
+https://www.mkyong.com/spring-boot/spring-boot-webflux-server-sent-events-example/
+https://www.mkyong.com/spring-boot/spring-boot-webflux-thymeleaf-reactive-example/
+https://www.mkyong.com/spring-boot/spring-boot-configurationproperties-example/
